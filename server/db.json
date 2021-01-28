@@ -1,0 +1,85 @@
+{
+  "tv": [
+    {
+      "id": 1400,
+      "title": "Seinfeld",
+      "poster_path": "aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "tracked": true,
+      "done": false,
+      "created": 1567089143,
+      "updated": 1611752741,
+      "seasons": {
+        "1": {
+          "done_episodes": [
+            4,
+            1,
+            2,
+            3,
+            5
+          ]
+        },
+        "2": {
+          "done_episodes": [
+            1
+          ]
+        }
+      }
+    },
+    {
+      "id": 97175,
+      "name": "Fate: The Winx Saga",
+      "poster_path": "/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
+      "tracked": false,
+      "done": false,
+      "created": 1611668881,
+      "updated": 1611741492,
+      "seasons": []
+    },
+    {
+      "id": 44333,
+      "name": "Carol Burnett and Friends",
+      "poster_path": null,
+      "tracked": false,
+      "done": false,
+      "created": 1611669892,
+      "updated": 1611739246,
+      "seasons": {
+        "1": {
+          "done_episodes": []
+        }
+      }
+    },
+    {
+      "id": 79680,
+      "name": "Snowpiercer",
+      "poster_path": "/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg",
+      "tracked": true,
+      "done": false,
+      "created": 1611741499,
+      "updated": 1611752875,
+      "seasons": {
+        "2": {
+          "done_episodes": []
+        }
+      }
+    },
+    {
+      "id": 1668,
+      "name": "Friends",
+      "poster_path": "/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+      "tracked": true,
+      "done": true,
+      "created": 1611752608,
+      "updated": 1611752669,
+      "seasons": {
+        "1": {
+          "done_episodes": [
+            1,
+            2
+          ]
+        }
+      }
+    }
+  ],
+  "movie": []
+}
