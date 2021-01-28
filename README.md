@@ -16,15 +16,5 @@ Afterwards open two separate terminal windows and run `npm start` in the `client
 
 The `client` (frontend) will run at `http://localhost:3000` (opens automatically), and the `server` (backend) will run on port 3001.
 
-### Available scripts
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), so all its scripts are available in the `client` folder:
-
-```sh
-npm start
-npm test
-npm run build
-npm run eject # be careful :)
-```
 
 
